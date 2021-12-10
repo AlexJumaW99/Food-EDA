@@ -6,6 +6,11 @@
 - Seaborn
 - Jupyter Notebook (or any IDE that accepts .ipynb files)
 
+# How to run:
+It should be noted that the project can be viewed by simply clicking the .ipynb file in the repo. But should you wish to run it:
+- Download the repo and unzip the data folder into the same folder as the .ipynb file
+- Run all cells
+
 # Description of the data:
 Data includes country, locality, market, goods purchased, price & currency used, quantity exchanged, and month/year of purchase.
 
