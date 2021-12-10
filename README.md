@@ -1,24 +1,24 @@
-#Description of the data:
+# Description of the data:
 Data includes country, locality, market, goods purchased, price & currency used, quantity exchanged, and month/year of purchase.
 
-adm0_id: country id
-adm0_name: country name
-adm1_id: locality id
-adm1_name: locality name
-mkt_id: market id
-mkt_name: market name
-cm_id: commodity purchase id
-cm_name: commodity purchased
-cur_id: currency id
-cur_name: name of currency
-pt_id: market type id
-pt_name: market type (Retail/Wholesale/Producer/Farm Gate)
-um_id: measurement id
-um_name: unit of goods measurement
-mp_month: month recorded
-mpyear: year recorded
-mpprice: price paid
-mp_commoditysource: Source supplying price information
+- adm0_id: country id
+- adm0_name: country name
+- adm1_id: locality id
+- adm1_name: locality name
+- mkt_id: market id
+- mkt_name: market name
+- cm_id: commodity purchase id
+- cm_name: commodity purchased
+- cur_id: currency id
+- cur_name: name of currency
+- pt_id: market type id
+- pt_name: market type (Retail/Wholesale/Producer/Farm Gate)
+- um_id: measurement id
+- um_name: unit of goods measurement
+- mp_month: month recorded
+- mpyear: year recorded
+- mpprice: price paid
+- mp_commoditysource: Source supplying price information
 
 # Food-EDA
 Exploratory Data Analysis and Data Visualization was carried out on Global Food Data from Kaggle in order to gather insights. The various questions answered were as follows:
