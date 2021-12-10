@@ -1,3 +1,11 @@
+# Prerequisites:
+- Python 3.x
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook (or any IDE that accepts .ipynb files)
+
 # Description of the data:
 Data includes country, locality, market, goods purchased, price & currency used, quantity exchanged, and month/year of purchase.
 
