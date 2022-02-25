@@ -1,9 +1,4 @@
-
-
-
-https://user-images.githubusercontent.com/50864725/155722933-4a850506-a051-46c5-a656-872a339a81e6.mp4
-
-
+# Some screenshots of the project
 
 # Prerequisites:
 - Python 3.x
