@@ -1,4 +1,8 @@
 # Some screenshots of the project
+![exp](https://user-images.githubusercontent.com/50864725/155724097-bc9e10da-a822-4770-9aca-9636b64b0a79.PNG)
+![med](https://user-images.githubusercontent.com/50864725/155724114-0973dadd-74f6-4175-a82e-14d75925c546.PNG)
+![avg](https://user-images.githubusercontent.com/50864725/155724150-7c0b1597-5cb0-41e5-b127-10669bc24ab8.PNG)
+![available](https://user-images.githubusercontent.com/50864725/155724161-3b45bb3e-2bae-4ba2-8a4b-c7132cce3425.PNG)
 
 # Prerequisites:
 - Python 3.x
