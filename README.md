@@ -1,3 +1,10 @@
+
+
+
+https://user-images.githubusercontent.com/50864725/155722933-4a850506-a051-46c5-a656-872a339a81e6.mp4
+
+
+
 # Prerequisites:
 - Python 3.x
 - Numpy
@@ -15,9 +22,12 @@ It should be noted that the project can be viewed by simply clicking the .ipynb 
 Data includes country, locality, market, goods purchased, price & currency used, quantity exchanged, and month/year of purchase.
 
 - adm0_id: country id
+
 - adm0_name: country name
 - adm1_id: locality id
 - adm1_name: locality name
+
+
 - mkt_id: market id
 - mkt_name: market name
 - cm_id: commodity purchase id
